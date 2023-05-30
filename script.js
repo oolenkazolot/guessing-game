@@ -7,7 +7,7 @@ function createElHeader() {
   container.classList.add('container');
   const headerTitle = document.createElement('h1');
   headerTitle.classList.add('header__title');
-  headerTitle.innerHTML = 'Gem Puzzle';
+  headerTitle.innerHTML = 'Game Puzzle';
   const headerWrap = document.createElement('div');
   headerWrap.classList.add('header__wrap');
   const btnShuffle = document.createElement('button');
