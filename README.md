@@ -6,13 +6,13 @@ Stack: HTML, CSS, SASS, JavaScript
 
 # Main Screen
 
-(assets/images/Screenshot_1.png)
-(assets/images/Screenshot_4.png)
+<image src="assets/images/Screenshot_1.png" alt="main-screen-1">
+<image src="assets/images/Screenshot_4.png" alt="main-screen-2">
 
 # Victory
 
-(assets/images/Screenshot_2.png)
+<image src="assets/images/Screenshot_2.png" alt="victory">
 
 # Results
 
-(assets/images/Screenshot_3.png)
+<image src="assets/images/Screenshot_3.png" alt="results">
