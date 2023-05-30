@@ -6,7 +6,7 @@ Stack: HTML, CSS, SASS, JavaScript
 
 # Main Screen
 
-(assets/images/Screenshot_1.png)
+(https://oolenkazolot.github.io/guessing-game/assets/images/Screenshot_1.png)
 (assets/images/Screenshot_4.png)
 
 # Victory
