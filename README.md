@@ -4,6 +4,8 @@ Stack: HTML, CSS, SASS, JavaScript
 
 [Link](https://oolenkazolot.github.io/guessing-game/)
 
+Game Puzzle is an addictive and brain-stimulating game that will challenge your mind. With its minimalistic and elegantly designed approach, it provides a visually pleasing experience. The game involves stacking number blocks strategically to create a path and solve puzzles.
+
 # Main Screen
 
 <image src="assets/images/Screenshot_1.png" alt="main-screen-1">
